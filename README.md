@@ -7,7 +7,7 @@
 - 📫 How to reach me ... -->
 
 <p align="center">
-I'm a B.Tech Graduate in ELectronics and Communication Engineering from [Tezpur University, Assam](http://www.tezu.ernet.in/)
+I'm a B.Tech Graduate in ELectronics and Communication Engineering from Tezpur University, Assam.
 
 </p>
 <p align="center"> 
