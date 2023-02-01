@@ -18,7 +18,7 @@ You can find my Resume
 
 <div align="center">
 
-[here!](https://github.com/NiKHiLkr23/)
+[here!](https://drive.google.com/file/d/16bXdTLMtXFxDu4LTYwwczKOoppCE26Q-/view?usp=sharing)
 
 [![Gmail Badge](https://img.shields.io/badge/-Nikhil_Kumar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilkumarofficial23@gmail.com)](mailto:nikhilkumarofficial23@gmail.com)
 
