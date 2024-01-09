@@ -108,15 +108,7 @@ You can find my Resume
 
 </div>
 
-#
 
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=NiKHiLkr23&theme=minimal)
-
-<div align="center">
-
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiKHiLkr23&theme=vue)
-
-</div>
 #
 
 ## Resources I learn from..
