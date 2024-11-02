@@ -20,8 +20,8 @@ Crafting full-stack applications with a focus on frontend finesse. Passionate ab
 
 [![Gmail Badge](https://img.shields.io/badge/-Nikhil_Kumar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilkumarofficial23@gmail.com)](mailto:nikhilkumarofficial23@gmail.com)
 
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nikhilkr23)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkr1221/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nikhilkr_tw)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkr-li/)
 
 
 </div>
