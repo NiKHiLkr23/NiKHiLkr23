@@ -10,7 +10,7 @@ I believe the best way to learn software engineering is by shipping real tools t
 
 Right now, my primary focus is **[Gibwork](https://app.gib.work)**, a decentralized task marketplace built on Solana.
 
-The idea is simple: post bounties, fund them in escrow, and pay when satisfied. Post a job or complete tasks to earn your first internet dollar.
+The idea is simple: post bounties, fund them in escrow, and pay when satisfied. Post a job or complete bounties to earn your first internet dollar.
 
 <br/>
 
