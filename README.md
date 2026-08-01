@@ -12,47 +12,15 @@ Right now, my primary focus is **[Gibwork](https://app.gib.work)**, a decentrali
 
 The idea is simple: post bounties, fund them in escrow, and pay when satisfied. Post a job or complete tasks to earn your first internet dollar.
 
+<br/>
+
 <p align="left">
-  <a href="https://apps.apple.com/app/gibwork/id6757281508" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 8px; margin-bottom: 8px;">
-    <table border="1" cellpadding="8" cellspacing="0" style="border-radius: 8px; border: 1px solid #27272a; background-color: #09090b;">
-      <tr>
-        <td valign="middle" style="border: none;">
-          <img src="https://www.nikhilkr.in/images/appstore.png" width="22" height="22" style="display: block;" />
-        </td>
-        <td valign="middle" style="border: none; padding-left: 6px;">
-          <span style="font-size: 8px; text-transform: uppercase; color: #a1a1aa; letter-spacing: 0.5px; display: block; line-height: 1;">DOWNLOAD ON THE</span>
-          <strong style="font-size: 12px; color: #ffffff; line-height: 1.2; display: block;">App Store</strong>
-        </td>
-      </tr>
-    </table>
+  <a href="https://apps.apple.com/app/gibwork/id6757281508" target="_blank" style="text-decoration: none;">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="40" style="vertical-align: middle;" />
   </a>
-  &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.gibwork.app" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 8px; margin-bottom: 8px;">
-    <table border="1" cellpadding="8" cellspacing="0" style="border-radius: 8px; border: 1px solid #27272a; background-color: #09090b;">
-      <tr>
-        <td valign="middle" style="border: none;">
-          <img src="https://www.nikhilkr.in/images/google-play.png" width="22" height="22" style="display: block;" />
-        </td>
-        <td valign="middle" style="border: none; padding-left: 6px;">
-          <span style="font-size: 8px; text-transform: uppercase; color: #a1a1aa; letter-spacing: 0.5px; display: block; line-height: 1;">GET IT ON</span>
-          <strong style="font-size: 12px; color: #ffffff; line-height: 1.2; display: block;">Google Play</strong>
-        </td>
-      </tr>
-    </table>
-  </a>
-  &nbsp;
-  <a href="https://app.gib.work" target="_blank" style="text-decoration: none; display: inline-block; margin-bottom: 8px;">
-    <table border="1" cellpadding="8" cellspacing="0" style="border-radius: 8px; border: 1px solid #27272a; background-color: #09090b;">
-      <tr>
-        <td valign="middle" style="border: none;">
-          <img src="https://www.nikhilkr.in/images/solanaLogoMark.svg" width="18" height="18" style="display: block;" />
-        </td>
-        <td valign="middle" style="border: none; padding-left: 6px;">
-          <span style="font-size: 8px; text-transform: uppercase; color: #a1a1aa; letter-spacing: 0.5px; display: block; line-height: 1;">AVAILABLE ON</span>
-          <strong style="font-size: 12px; color: #ffffff; line-height: 1.2; display: block;">dApp Store</strong>
-        </td>
-      </tr>
-    </table>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.gibwork.app" target="_blank" style="text-decoration: none;">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="58" style="vertical-align: middle; margin-top: -9px; margin-bottom: -9px;" />
   </a>
 </p>
 
