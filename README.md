@@ -15,7 +15,7 @@ The idea is simple: post bounties, fund them in escrow, and pay when satisfied. 
 <br/>
 
 <p align="left">
-  <a href="https://apps.apple.com/app/gibwork/id6757281508" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="40" align="middle" /></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.gibwork.app" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="40" align="middle" /></a>
+  <a href="https://apps.apple.com/app/gibwork/id6757281508" target="_blank" rel="noopener noreferrer"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="40" align="middle" /></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.gibwork.app" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="40" align="middle" /></a>
 </p>
 
 ---
